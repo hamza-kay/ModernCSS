@@ -1,0 +1,23 @@
+body {
+
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+header {
+
+    background-image: linear-gradient(to right, #a25b5b, #692e5c);
+}
+
+header h1 {
+
+    margin-top: 0;
+}
+
+.container {
+
+    max-width: 1200px;
+
+    margin: 0 auto;
+
+}
