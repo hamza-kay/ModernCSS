@@ -26,7 +26,8 @@
 <header>
 
     <div class="container">
-    <div>
+
+    <div class="header-top">
 
         <h1>XCasts</h1>
 
@@ -41,7 +42,7 @@
         <a href="#">Series</a>
 
         <a href="#">Podcast</a>
-        r
+
         <a href="#">Discussions</a>
 
 
