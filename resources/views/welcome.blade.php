@@ -23,7 +23,7 @@
 
 <body>
 
-<header>
+<header class="section">
 
     <div class="container">
 
@@ -50,6 +50,56 @@
 
         </div>
 </header>
+
+<div class="section">
+
+    <div class="container">
+
+     <div class="row">
+
+         <div class="col">
+
+             <div class="box">
+                 Some text
+             </div>
+
+         </div>
+
+         <div class="col">
+
+             <div class="box">
+                 Some text
+             </div>
+
+         </div>
+
+         <div class="col">
+
+             <div class="box">
+                 Some text
+             </div>
+
+         </div>
+
+         <div class="col">
+
+             <div class="box">
+                 Some text
+             </div>
+
+
+         </div>
+
+     </div>
+
+
+
+
+    </div>
+
+</div>
+
+
 
 
 
